@@ -1,0 +1,12 @@
+body {
+    background-color: #444444;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 1.4rem;
+}
+
+h1, h2 {
+    font-weight: 300;
+}
